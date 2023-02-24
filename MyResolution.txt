@@ -3,4 +3,3 @@ ZKYRIO RESOLUTION
 - Menemukan dan bisa menentukan arah keahlian di bidang IT [ FE / BE / FS / UIUX / DLL ]
 - 2023 Berhasil membuat sebuah project
 - 2023 Bisa memahami JS , JAVA , PYTHON
-- 2023 Berhasil membuat website portofolio
